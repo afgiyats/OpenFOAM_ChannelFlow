@@ -1,5 +1,5 @@
 # Channel Flow
-This repository contain how to run Ahmed Body using OpenFOAM !!
+This repository contain how to run Channel Flow using OpenFOAM !!
 
 
 
